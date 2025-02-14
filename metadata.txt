@@ -1,0 +1,9 @@
+[general]
+name=Thumbnail Generator
+qgisMinimumVersion=3.0
+author=Mia Montesanto
+email=mariacarmela.montesanto@unifi.it
+version=1.0
+description=Un plugin per generare miniature da Google Drive
+category=Raster
+repository: https://github.com/Mia427730/Thumbnail-Generator.git
